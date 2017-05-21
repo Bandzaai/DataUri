@@ -1,5 +1,5 @@
 {
-    "name": "bandzaai/DataUri",
+    "name": "bandzaai/data-uri",
     "description": "Package for datauri management",
     "license": "MIT",
     "keywords": ["bandzaai", "datauri"],
