@@ -1,0 +1,24 @@
+{
+    "name": "bandzaai/DataUri",
+    "description": "Package for datauri management",
+    "license": "MIT",
+    "keywords": ["bandzaai", "datauri"],
+    "authors": [
+        {
+            "name": "Breogán Esculta",
+            "email": "breo.esculta@bandzaai.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0"
+    },
+    "require-dev": {
+	    "ext-curl": "*",
+        "phpunit/phpunit": ">=6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bandzaai\\DataUri\\": "src"
+        }
+    }
+}
